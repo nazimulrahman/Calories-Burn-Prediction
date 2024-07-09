@@ -1,2 +1,2 @@
-# virtual-assistant
-This project is IT based company assistant for any consultation
+# Calories Burn Prediction 
+This project is usefull for predicting calories burnt for a sports man 
